@@ -6,5 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input("จำนวนตัวเลขที่1: "))
+b = int(input("จำนวนตัวที่เลขที่2: "))
+print()
+
+total = a + b 
+print("ผลบวก", total):
