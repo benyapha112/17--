@@ -15,5 +15,6 @@ elif("Slow: ")
     print("สีเหลือง")
 elif("Go: ")
     print("สีเขียว")
- else("Invalid": )
+else:
+("Invalid": )
     print("กรณีอื่นๆ")
