@@ -6,4 +6,4 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-total_minutes = int(input())
+total_minutes = int(input("จำนวนนาทีที่เหลือ"))
