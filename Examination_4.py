@@ -6,4 +6,14 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input()
+red = input("สีแดง")
+yellow = input("สีเหลือง")
+green = input("สีเขียว")
+if("Stop: ")
+    print("สีแดง")
+elif("Slow: ")
+    print("สีเหลือง")
+elif("Go: ")
+    print("สีเขียว")
+ else("Invalid": )
+    print("กรณีอื่นๆ")
